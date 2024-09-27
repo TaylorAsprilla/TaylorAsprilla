@@ -6,7 +6,7 @@ Soy un **desarrollador Full Stack** apasionado por crear soluciones eficientes y
 ### 🔧 Tecnologías y Herramientas:
 - **Backend**: Node.js, NestJS, Express, Python
 - **Frontend**: Angular
-- **Bases de Datos**: MySQL, PostgreSql MongoDB, DynamoDB
+- **Bases de Datos**: MySQL, PostgreSql, MongoDB, DynamoDB
 - **Big Data**: Apache Hadoop, Apache Spark, Apache Kafka
 - **Cloud**: Azure, AWS
 - **DevOps**: Docker, CI/CD
