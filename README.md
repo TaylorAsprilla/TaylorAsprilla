@@ -36,8 +36,10 @@ El código de la mayoría de los proyectos de clientes es privado. Los casos com
 
 ## Stack
 
+[![Stack](https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,nodejs,nestjs,express,py,flask,graphql,postgres,mysql,mongodb,aws,azure,docker,githubactions,wordpress&theme=light&perline=10)](https://taylorasprilla.dev/)
+
 - **Frontend:** Next.js, React, Angular, TypeScript, Tailwind CSS
-- **Backend:** Node.js, NestJS, Express, Python, Flask
+- **Backend:** Node.js, NestJS, Express, Python, Flask, REST, GraphQL
 - **IA:** OpenAI (Whisper), integración de LLMs, agentes
 - **Datos:** PostgreSQL, MySQL, MongoDB
 - **Infraestructura:** AWS, Azure, Docker, GitHub Actions
