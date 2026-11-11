@@ -13,12 +13,12 @@ Construyo sitios web, software a la medida y soluciones con IA y agentes para ne
 
 | Área | Alcance |
 |---|---|
-| IA y agentes | Integración de LLMs en productos y procesos, agentes que usan herramientas y APIs, automatización de flujos de trabajo |
-| Procesamiento con IA | Transcripción de audio, generación de documentos, extracción de información |
-| Software a la medida | CRM, dashboards y sistemas administrativos |
-| APIs y backend | REST y GraphQL, integraciones, autenticación con JWT y OAuth2 |
-| Web y e-commerce | Sitios corporativos, landing pages y tiendas online |
-| Evolución de plataformas | Mantenimiento y mejora de sistemas en producción |
+| 🤖 IA y agentes | Integración de LLMs en productos y procesos, agentes que usan herramientas y APIs, automatización de flujos de trabajo |
+| 🎙️ Procesamiento con IA | Transcripción de audio, generación de documentos, extracción de información |
+| 🧩 Software a la medida | CRM, dashboards y sistemas administrativos |
+| 🔌 APIs y backend | REST y GraphQL, integraciones, autenticación con JWT y OAuth2 |
+| 🌐 Web y e-commerce | Sitios corporativos, landing pages y tiendas online |
+| 🔧 Evolución de plataformas | Mantenimiento y mejora de sistemas en producción |
 
 ## Proyectos
 
